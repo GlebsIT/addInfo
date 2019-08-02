@@ -1,9 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.ini
+wsgi.py
 
 # C extensions
 *.so
+*.swp
 
 # Distribution / packaging
 .Python
@@ -13,6 +16,7 @@ build/
 develop-eggs/
 dist/
 eggs/
+teachers/
 lib/
 lib64/
 parts/
